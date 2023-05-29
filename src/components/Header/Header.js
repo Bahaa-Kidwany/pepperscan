@@ -9,19 +9,19 @@ function Header() {
           <a href="/">افحص محصولك الان</a>
         </li>
         <li>
-          <a href="/">تواصل معنا</a>
+          <a href="https://www.google.com/search?q=tensorflow+model+zoo+tf2&client=firefox-b-d&bih=767&biw=1440&hl=en&sxsrf=APwXEdfzHa6GF4sJJPVRMoyt2C4r1l9OnA%3A1683456076937&ei=TIBXZO_ZOIeA9u8PhuuSqAU&oq=tensorflow+model+zoo+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMggIABCKBRCGAzIICAAQigUQhgM6CggAEEcQ1gQQsAM6CggAEIoFELADEENKBAhBGABQQFhAYJwKaAFwAXgAgAF-iAF-kgEDMC4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp">تواصل معنا</a>
         </li>
         <li>
-          <a href="/">فريق العمل</a>
+          <a href="http://www.pepperdiagnosis.tech/#team">فريق العمل</a>
         </li>
         <li>
-          <a href="/">المميزات</a>
+          <a href="http://www.pepperdiagnosis.tech/#adv">المميزات</a>
         </li>
         <li>
-          <a href="/">عن التطبيق</a>
+          <a href="http://www.pepperdiagnosis.tech/#info">عن التطبيق</a>
         </li>
         <li>
-          <Link to={`landingPage`}>الرئيسية</Link>
+          <a href="http://www.pepperdiagnosis.tech/">الرئيسية</a>
         </li>
         <li>
           <a href="/">
