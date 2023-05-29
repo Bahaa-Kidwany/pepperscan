@@ -13,19 +13,19 @@ const Layout = () => {
           <nav>
             <ul>
               <li>
-                <Link to="http://www.pepperdiagnosis.tech/">الرئيسية</Link>
+                <Link to="https://pepperlanding.herokuapp.com/">الرئيسية</Link>
               </li>
               <li>
-                <Link to="http://www.pepperdiagnosis.tech/#info">عن التطبيق</Link>
+                <Link to="https://pepperlanding.herokuapp.com/#info">عن التطبيق</Link>
               </li>
               <li>
-                <Link to="http://www.pepperdiagnosis.tech/#adv">المميزات</Link>
+                <Link to="https://pepperlanding.herokuapp.com/#adv">المميزات</Link>
               </li>
               <li>
-                <Link to="http://www.pepperdiagnosis.tech/#team">فريق العمل</Link>
+                <Link to="https://pepperlanding.herokuapp.com/#team">فريق العمل</Link>
               </li>
               <li>
-                <Link to="http://www.pepperdiagnosis.tech/#contact">تواصل معنا</Link>
+                <Link to="https://pepperlanding.herokuapp.com/#contact">تواصل معنا</Link>
               </li>
             </ul>
           </nav>
