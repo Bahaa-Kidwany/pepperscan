@@ -13,19 +13,19 @@ const Layout = () => {
           <nav>
             <ul>
               <li>
-                <Link>الرئيسية</Link>
+                <Link to="http://www.pepperdiagnosis.tech/">الرئيسية</Link>
               </li>
               <li>
-                <Link>عن التطبيق</Link>
+                <Link to="http://www.pepperdiagnosis.tech/#info">عن التطبيق</Link>
               </li>
               <li>
-                <Link>المميزات</Link>
+                <Link to="http://www.pepperdiagnosis.tech/#adv">المميزات</Link>
               </li>
               <li>
-                <Link>فريق العمل</Link>
+                <Link to="http://www.pepperdiagnosis.tech/#team">فريق العمل</Link>
               </li>
               <li>
-                <Link>تواصل معنا</Link>
+                <Link to="http://www.pepperdiagnosis.tech/#contact">تواصل معنا</Link>
               </li>
             </ul>
           </nav>
